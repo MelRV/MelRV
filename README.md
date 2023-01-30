@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **melissa.rvillegas206@gmail.com**
 
-- ⚡ Fun fact **I love dogs**
+- ⚡ Fun fact **I love dogs and paint 🎨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
