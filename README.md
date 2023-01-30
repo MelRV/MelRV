@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melissa Ramírez</h1>
-<h3 align="center">A passionate frontend developer from México</h3>
+<h3 align="center">✨ A passionate frontend developer from México ✨</h3>
 
 - 🔭 I’m currently working on [MdLinks](https://github.com/MelRV/DEV001-md-links)
 
@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/melissa ramirez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melissa ramirez" height="30" width="40" /></a>
 <a href="https://instagram.com/@m.a.l.a.fortuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@m.a.l.a.fortuna" height="30" width="40" /></a>
 </p>
 
