@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Melissa Ramírez</h1>
 <h3 align="center">✨ A passionate frontend developer from México ✨</h3>
 
-- 🔭 I’m currently working on [MdLinks](https://github.com/MelRV/DEV001-md-links)
+- 🔭 I’m currently working on [MdLinks](https://github.com/MelRV/DEV001-notes)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **melissa.rvillegas206@gmail.com**
 
