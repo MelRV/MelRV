@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Lab Notes](https://github.com/MelRV/DEV001-notes)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Tailwind**
 
 - 📫 How to reach me **melissa.rvillegas206@gmail.com**
 
