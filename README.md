@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melissa Ramírez</h1>
 <h3 align="center">✨ A passionate frontend developer from México ✨</h3>
 
-- 🔭 I’m currently working on [Landing Page]([https://github.com/MelRV/DEV001-notes](https://github.com/MelRV/LandingPage))
+- 🔭 I’m currently working on [Landing Page]([https://github.com/MelRV/LandingPage])
 
 - 🌱 I’m currently learning **Tailwind**
 
