@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Landing Page]([https://github.com/MelRV/LandingPage])
 
-- 🌱 I’m currently learning **Tailwind**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **melissa.rvillegas206@gmail.com**
 
