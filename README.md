@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working 
 
-- 🌱 I’m currently learning **Cypress**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **melissa.rvillegas206@gmail.com**
 
