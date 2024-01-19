@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melissa Ramírez</h1>
-<h3 align="center">✨ A passionate frontend developer from México ✨</h3>
+<h3 align="center">✨ A passionate SDET from México ✨</h3>
 
 - 🔭 I’m currently working 
 
