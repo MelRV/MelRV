@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melissa Ramírez</h1>
 <h3 align="center">✨ A passionate SDET from México ✨</h3>
 
-- 🔭 I’m currently working 
+- 🔭 I’m currently working at OLIN ADT
 
 - 🌱 I’m currently learning **Python**
 
